@@ -432,7 +432,7 @@
 			null
 		],
 		"cam_up": [
-			73,
+			48,
 			null,
 			null,
 			null
@@ -456,7 +456,7 @@
 			null
 		],
 		"cam_right": [
-			76,
+			48,
 			null,
 			null,
 			null
@@ -517,7 +517,7 @@
 		],
 		"side_weapon": [
 			1,
-			50,
+			75,
 			null,
 			null
 		],
@@ -564,7 +564,7 @@
 			null
 		],
 		"cam_down": [
-			75,
+			48,
 			null,
 			null,
 			null
@@ -576,7 +576,7 @@
 			null
 		],
 		"cam_left": [
-			74,
+			48,
 			null,
 			null,
 			null
@@ -601,7 +601,7 @@
 		],
 		"main_weapon": [
 			0,
-			49,
+			74,
 			null,
 			null
 		]
