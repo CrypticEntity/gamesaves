@@ -517,7 +517,7 @@
 		],
 		"side_weapon": [
 			1,
-			74,
+			75,
 			null,
 			null
 		],
@@ -601,7 +601,7 @@
 		],
 		"main_weapon": [
 			0,
-			75,
+			74,
 			null,
 			null
 		]
@@ -849,7 +849,7 @@
 	"modsLocalPath": {},
 	"ignoreModAutoInstall": false,
 	"displayMode": 1,
-	"vsync": true,
+	"vsync": false,
 	"synergyFeedback": true,
 	"font": "classic",
 	"hideCursePopup": false,
